@@ -16,7 +16,7 @@ git clone {remote repository}
 1. As it has already set up for remote repositry, so move to your cloned project & check current configured remote repository
 ```
 $ git remote -v
-d
+
 > origin	git@github.com:YOUR_USERNAME/YOUR_FORK.git (fetch)
 > origin	git@github.com:YOUR_USERNAME/YOUR_FORK.git (push)
 ```
