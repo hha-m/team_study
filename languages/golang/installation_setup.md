@@ -53,3 +53,7 @@ $ mkdir -p $GOPATH $GOPATH/src $GOPATH/pkg $GOPATH/bin
 - $GOPATH/src : Where your Go projects / programs are located
 - $GOPATH/pkg : contains every package objects
 - $GOPATH/bin : The compiled binaries home
+
+exercies for go:
+- https://www.w3schools.com/go/exercise.php
+- https://golangr.com/exercises/
