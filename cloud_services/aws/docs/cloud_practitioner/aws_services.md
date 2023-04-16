@@ -9,15 +9,15 @@
 ## Storage Services
 ### 5. Simple Storage Service (S3)
 ### 6. Elastic Block Store (EBS)
-### 7. Glacierd
+### 7. Glacier
 ### 8. Elastic File System (EFS)
 
 ## Network Services
 ### 9. Virtual Private Cloud (VPC)
 ### 10. Route 53
-### 11. CloudFrontd
+### 11. CloudFront
 ### 12. API Gateway
-### 13. Direct Connectd
+### 13. Direct Connect
 
 ## Database Services
 ### 14. Relational Database Service (RDS)

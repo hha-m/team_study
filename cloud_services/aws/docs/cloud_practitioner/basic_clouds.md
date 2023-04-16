@@ -34,6 +34,6 @@ NIST: National Institute for Standards and Technology<br>
 <b>use</b>: a specific community of consumers from organizations<br>
 <b>manage</b>: one or more of the organizations in the community, a third party, or some combination of both<br>
 ❸Public cloud<br>
-<b>use</b>: open use by the general public<br>
+<b>use</b>: open used by the general public<br>
 <b>manage</b>: a business, academic institution, or government organization, or some combination of the three)<br>
 ❹Hybrid cloud: private, community, or public
